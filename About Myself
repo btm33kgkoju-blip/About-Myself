@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About myself</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1>I am Ajeya Quson Koju</h1>
+      <h2>I live in Bhaktapur,Nepal</h2>
+      <h3>I study in Medha Secondary School</h3>
+      <h4>I study in grade 8</h4>
+      <h5>I love Science subject</h5>
+      <h6>I wanna become an agriculturist</h6>
+  </body>
+</html>
